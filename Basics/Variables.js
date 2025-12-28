@@ -7,5 +7,6 @@ accountCity= "Pune"
  accountEmail="pf@gmail.com";
  accountPassword="000000";
  accountCity="Mumbai";
+ let a=10
  console.table([accountEmail,accountPassword,accountCity])
  
